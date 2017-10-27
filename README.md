@@ -7,7 +7,8 @@
 
   * 校验码： SHA1: 028df9edf5576d46b423025f7b5668176df51685
    * 安装: 
-   1. 按“菜单”键 --> settings（设置）--> Applications（应用程序）, 钩选"Unknown sources"（未知源）。
+   1. 按“菜单”键/settings（设置）/Applications（应用程序）, 钩选"Unknown sources"（未知源）。
+
 注: 有的版本是: 按“菜单”键 --> settings（设置）--> security (安全) 里面, 钩选"Unknown sources"（未知源）。
 
    2. 将下载的ua105.apk文件拷贝到手机SD卡（或内置SD卡）上。在安卓手机上点击ua102.apk文件便可安装.
