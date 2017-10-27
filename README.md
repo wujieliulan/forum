@@ -4,8 +4,15 @@
 [使用说明】
 
 ### [安卓版(支持4.1以上）: 无界安卓手机版 1.0.7](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.apk)
-[使用说明】
 
+  * 校验码： SHA1: 028df9edf5576d46b423025f7b5668176df51685
+   * 安装: 
+   1. 按“菜单”键 --> settings（设置）--> Applications（应用程序）, 钩选"Unknown sources"（未知源）。
+注: 有的版本是: 按“菜单”键 --> settings（设置）--> security (安全) 里面, 钩选"Unknown sources"（未知源）。
+
+   2. 将下载的ua105.apk文件拷贝到手机SD卡（或内置SD卡）上。在安卓手机上点击ua102.apk文件便可安装.
+
+  
 ### [无界火狐扩展 17.02a （支持Windows，Mac，Linux）](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.apk)
 
   * 自带破网功能，无需运行其他破网软件，支持Windows, Mac, Linux, 32/64位。
