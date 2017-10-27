@@ -48,7 +48,7 @@ SHA1: 028df9edf5576d46b423025f7b5668176df51685
 1. 支持Windows, Mac, Linux, 32/64位。
 2. 点击火狐右上角的无界图标，点击开关即可开启或关闭。 连接成功后，无界图标变成彩色。
 
-## [无界Linux VPN 17.02a （支持Windows，Mac，Linux）](https://https://raw.githubusercontent.com/wujieliulan/download/master/ul)
+## [无界Linux VPN 17.02a （支持Windows，Mac，Linux）](https://raw.githubusercontent.com/wujieliulan/download/master/ul)
 
 #### 校验码： SHA1: 66a10e91f07e48b71046b94471d2fca3e21ca41c
 
