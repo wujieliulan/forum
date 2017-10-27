@@ -1,12 +1,11 @@
 ## 无界浏览(UltraSurf)最新版本下载
 
-**[无界浏览最新版本下载地址请点这里](https://github.com/wujieliulan/forum/issues)**
+**[Windows 版： 无界浏览 17.02a](https://raw.githubusercontent.com/wujieliulan/download/master/u.zip)
 
+**[安卓版: 无界安卓手机版 1.0.7](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.apk)
 
-[Windows 版本(要求XP SP3以上)](https://github.com/wujieliulan/download/blob/master/u.zip?raw=true)
+**[无界火狐扩展 17.02a （支持Windows，Mac， Linux）](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.apk)
 
-[安卓版(要求4.1以上)](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.apk)
-
-[其他系统下载](https://github.com/getlantern/forum/issues/833)
+**[无界LinuxVPN 17.02a （支持Windows，Mac， Linux）](https://https://raw.githubusercontent.com/wujieliulan/download/master/ul)
 
 请大家收藏本页面，方便日后下载新版。
