@@ -3,8 +3,7 @@
 
 ## [Windows版： 无界浏览 17.02a](https://raw.githubusercontent.com/wujieliulan/download/master/u.zip)
 
-#### 校验码： 
-SHA1: c6cf189a3b3c12028955b67d9fa234bf06aa5562
+#### 校验码： SHA1: c6cf189a3b3c12028955b67d9fa234bf06aa5562
 
 #### 安装与使用:
 不需要安装，下载后将里面的u1702a.exe存到桌面或其他地方，双击即可使用。
@@ -12,8 +11,7 @@ SHA1: c6cf189a3b3c12028955b67d9fa234bf06aa5562
 
 ## [安卓版(支持4.1以上）: 无界安卓手机版 1.0.7](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.apk)
 
-#### 校验码： 
-SHA1: 028df9edf5576d46b423025f7b5668176df51685
+#### 校验码： SHA1: 028df9edf5576d46b423025f7b5668176df51685
 
 #### 安装：
 
