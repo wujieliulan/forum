@@ -1,6 +1,6 @@
 # 无界浏览(UltraSurf)最新版本下载
 ## （请收藏本页面，以便日后下载新版）
-### 最近封锁严重，很多翻墙工具都以失效。如果无界还能翻墙，请把这个网址分享给更多的人以便他们也能受益。
+### 最近封锁严重，请把这个网址分享给更多的人。
 
 ## [Windows版： 无界浏览 17.02a](https://raw.githubusercontent.com/wujieliulan/download/master/u.zip)
 
