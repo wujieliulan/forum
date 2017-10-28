@@ -34,7 +34,7 @@
 3. 为安全起见，建议关闭所有浏览器和其他app，再关闭无界，以免直连敏感网站。也可以直接重启手机， 这样最安全。
 
   
-## [无界火狐扩展 17.02a （支持Windows，Mac，Linux）](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.apk)
+## [无界火狐扩展 17.02a （支持Windows，Mac，Linux）](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.xpi)
 
 #### 校验码： SHA1: bfb67a0b3e53271d7b29191d3a3df78ed93faca3
 
