@@ -1,9 +1,9 @@
 # 无界浏览(UltraSurf)最新版本下载
 ## （本页面从国内可直接访问，无需翻墙，请收藏以便日后下载新版。也可以用这个短网址： https://git.io/vFUxz 最近封锁严重，请把本页面分享给更多的人。）
 
-## [Windows版： 无界浏览 17.02](https://raw.githubusercontent.com/wujieliulan/download/master/u.zip)
+## [Windows版： 无界浏览 17.03a](https://raw.githubusercontent.com/wujieliulan/download/master/u.zip)
 
-#### 校验码： SHA1: c6cf189a3b3c12028955b67d9fa234bf06aa5562
+#### 校验码： SHA256: 1bfadd0b9034f536eb69cf3045e436b5b796436d9f4f11357351a975e3851ac1
 
 #### 安装与使用:
 不需要安装，下载后将里面的u1702a.exe存到桌面或其他地方，双击即可使用。
