@@ -9,7 +9,7 @@
 不需要安装，下载后将里面的u1703b.exe存到桌面或其他地方，双击即可使用。
 
 
-## [安卓版(支持4.1以上）: 无界安卓手机版 1.0.8](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.apk)
+## [安卓版(支持4.1以上）: 无界安卓手机版 1.0.8a](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.apk)
 
 #### 校验码： SHA512: 486f2bb7b912497357e0a8a4b7db866f7c6e693d0892d2eda4606b0b47526d8b6d83ce168083c65599d06539d32c62dd12c0dc01221c834ae23b8c870ee1fa77
 
