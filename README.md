@@ -1,15 +1,15 @@
 # 无界浏览(UltraSurf)最新版本下载
 ## （本页面从国内可直接访问，无需翻墙，请收藏以便日后下载新版。也可以用这个短网址： https://git.io/vFUxz 最近封锁严重，请把本页面分享给更多的人。）
 
-## [Windows版： 无界浏览 17.03c](https://raw.githubusercontent.com/wujieliulan/download/master/u.zip)
+## [Windows版： 无界浏览 17.04](https://raw.githubusercontent.com/wujieliulan/download/master/u.zip)
 
-#### 校验码： SHA512: 65ae8c3c6e4874543f4f357b6ab5e41903092dd7391956ba823109c699c4ae7a57613e6d72a4e9529bae418025fe2b9450784a91d1e7fce813a169035793b2fd
+#### 校验码： SHA512: 9301e32dd888ed465c7d4c33fbe37ff5a2cf7b75b945fabd74e49c86d5bbd0ba9f3f230c801744778217696548250a5394b3768c7e3b22e86a354f30389493a9
 
 #### 安装与使用:
 不需要安装，下载后将里面的u1703b.exe存到桌面或其他地方，双击即可使用。
 
 
-## [安卓版(支持4.1以上）: 无界安卓手机版 1.0.8a](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.apk)
+## [安卓版(支持4.1以上）: 无界安卓手机版 1.0.8](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.apk)
 
 #### 校验码： SHA512: 486f2bb7b912497357e0a8a4b7db866f7c6e693d0892d2eda4606b0b47526d8b6d83ce168083c65599d06539d32c62dd12c0dc01221c834ae23b8c870ee1fa77
 
@@ -48,7 +48,7 @@
 1. 如果在VPN模式下使用其他浏览器（而不是无界一点通自带的浏览器），请使用其浏览器的“隐私模式”
 2. 或退出无界一点通之后，请将浏览器的历史记录清除，否则在没有VPN的情况下无意中点击了这些历史记录，会有安全隐患。
 
-## [无界火狐扩展 17.03c （支持Windows，Mac，Linux）](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.xpi)
+## [无界火狐扩展 17.03（支持Windows，Mac，Linux）](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.xpi)
 
 #### 校验码： SHA512: 12df40fe39f0142758aa1461f1a62e141133bb5def0031c20df1016d270c948f0049b6b74d4353b90f1e91199b38bfc19fdde4cc564acbc07cf5bb405c9d7487
 
