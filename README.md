@@ -1,9 +1,9 @@
 # 无界浏览(UltraSurf)最新版本下载
 ## （本页面从国内可直接访问，无需翻墙，请收藏以便日后下载新版。也可以用这个短网址： https://git.io/vFUxz 最近封锁严重，请把本页面分享给更多的人。）
 
-## [Windows版： 无界浏览 18.03](https://raw.githubusercontent.com/wujieliulan/download/master/u.zip)
+## [Windows版： 无界浏览 18.04](https://raw.githubusercontent.com/wujieliulan/download/master/u.zip)
 
-#### 校验码： SHA512: d67b443a80564bb1667ee3afe1d3cdbfbdae2e536f266e3d8e350d5840d318392c4b0115f0eed302f3f051cc2778fce9fa7bf24fdbeee5f4dbbbacbf604a2e03
+#### 校验码： SHA512: f089822f736b2df8f8b3ebbd89b4d3092094d7c216d347e6589178818d46636af787a8865282ad422bc3ba9d322fa536b6d55326a2c2b26c78d44d6dab7fbd8a
 
 #### 安装与使用:
 不需要安装，下载后将里面的u1801存到桌面或其他地方，双击即可使用。
