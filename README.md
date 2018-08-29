@@ -6,7 +6,7 @@
 #### 校验码： SHA512: f089822f736b2df8f8b3ebbd89b4d3092094d7c216d347e6589178818d46636af787a8865282ad422bc3ba9d322fa536b6d55326a2c2b26c78d44d6dab7fbd8a
 
 #### 安装与使用:
-不需要安装，下载后将里面的u1801存到桌面或其他地方，双击即可使用。
+不需要安装，下载后将里面的u1804存到桌面或其他地方，双击即可使用。
 
 
 ## [安卓版(支持4.1以上）: 无界安卓手机版 1.0.8](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.apk)
