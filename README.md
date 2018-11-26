@@ -12,7 +12,7 @@ f5e79b136f2f0a2c82cb22bde88a0f9b86f42239f71f8bfab54cbd0ee2ad23405ead64397de18d0e
 
 ## [安卓版(支持4.1以上）: 无界安卓手机版 1.1.2](https://raw.githubusercontent.com/wujieliulan/download/master/ultrasurf.apk)
 
-#### 校验码： SHA512: 486f2bb7b912497357e0a8a4b7db866f7c6e693d0892d2eda4606b0b47526d8b6d83ce168083c65599d06539d32c62dd12c0dc01221c834ae23b8c870ee1fa77
+#### 校验码： SHA512: 1668ca620740647fb1bb942c51cd84c998c00722326918aed4a4ee3825b1662dc6856846c701487d68f13ffee77465b0881f6fb2d2596fe15849d9817be519f2
 
 #### 安装：
 
