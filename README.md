@@ -35,7 +35,7 @@ f5e79b136f2f0a2c82cb22bde88a0f9b86f42239f71f8bfab54cbd0ee2ad23405ead64397de18d0e
 
 ## [安卓版(支持2.0以上）: 无界一点通测试版 4.1a](https://raw.githubusercontent.com/wujieliulan/download/master/um41a.apk)
 
-#### 校验码： SHA256:  5ce18ba747067320eb17935bd611a5eba98eb1ee8514c946031cd1e014923003
+#### 校验码： SHA512:  29289423f7ca1f06e6cc2f1b376639966a9f98e044fee1ba3821f80dbccf7c0355d34ffc9aec337581c32f959d9d621a8f0bd264bcad31417bbb6cc627a25e2f
 
 #### 安装：
 
