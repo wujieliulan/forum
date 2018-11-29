@@ -50,4 +50,23 @@ f5e79b136f2f0a2c82cb22bde88a0f9b86f42239f71f8bfab54cbd0ee2ad23405ead64397de18d0e
 2. 如果浏览器不支持“隐私模式”，请手动清除所有历史纪录，或使用清除所有历史纪录的工具。
 3. 为安全起见，建议关闭所有浏览器和其他app，再关闭无界，以免直连敏感网站。也可以直接重启手机， 这样最安全。
 
+## [苹果macOS: 无界苹果macOS版 18.07](https://raw.githubusercontent.com/wujieliulan/download/master/u.dmg)
+
+#### 校验码： SHA512: 56f9630ea182ba047d78ad5aa2cd41044d2184ce9770b0e43d179b496c71ceb6a6b995264d1ad5ddbcd2f3dae9cf34acc26e4a59cf809bd1576e94ac81dc7bc2
+
+#### 安装：
+
+需要安装谷歌Chrome浏览器。下载后将里面的umac存在某处。
+
+#### 功能与使用：
+
+双击umac后会关闭所有谷歌Chrome浏览器，然后弹出一个终端显示以下信息：
+LISTENING 127.0.0.1:9666 （监听 127.0.0.1:9666 ）
+0.650 Connecting ... （正在连接）
+1.569 Connecting ... （正在连接）
+2.178 CONNECTED （连接成功）
+连接成功后自动打开的隐私模式谷歌Chrome浏览器（incognito mode）。
+
+关闭终端会关闭所有谷歌Chrome浏览器，然后退出无界。（也可以按ctrl+C).
+
 
