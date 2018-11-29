@@ -70,3 +70,75 @@ LISTENING 127.0.0.1:9666 （监听 127.0.0.1:9666 ）
 关闭终端会关闭所有谷歌Chrome浏览器，然后退出无界。（也可以按ctrl+C).
 
 
+使用方法：
+下载后在下载的文件夹右键打开一个终端，在终端执行：chmod +x ul，然后执行：./ul， 终端出现以下信息：
+LISTENING 127.0.0.1:9666 （监听 127.0.0.1:9666 ）
+0.650 Connecting ... （正在连接）
+1.569 Connecting ... （正在连接）
+2.178 CONNECTED （连接成功）
+需要手动设置浏览器代理。
+
+## [Linux: 无界LinuxVPN 18.07](https://raw.githubusercontent.com/wujieliulan/download/master/ul)
+
+#### 校验码： SHA512: 13f699fe38881c1656608229ab7d1fa7efce4b22573bf419cc3f1f728a6c07331e2901bce3762f3856b5edf2b6452871a32c2a2e989feaf456cecc2f197f7736
+
+#### 安装：
+
+下载ul存在某处。
+
+#### 功能与使用：
+
+./ul 启动代理（非VPN)模式
+LISTENING 127.0.0.1:9666 （监听 127.0.0.1:9666 ）
+VPN MODE （VPN模式）
+0.650 Connecting ... （正在连接）
+1.569 Connecting ... （正在连接）
+2.178 CONNECTED （连接成功）
+
+如果安装了谷歌Chrome浏览器，会关闭所有已经打开的谷歌Chrome浏览器，连接成功后，会自动打开的一个隐私模式（ingonito)的谷歌Chrome浏览器。
+
+#### 高级用户：
+
+./ul -help 显示使用方法：
+Usage of ./ul:
+-L string
+listen address (default "127.0.0.1:9666")
+-M string
+"vpn": turn on VPN mode
+-P string
+http or sock proxy, example: 1.2.3.4:8080 or socks://1.2.4.4:1080 or socks5://1.2.3.4:1080 or socks=1.2.3.4:1080
+-S string
+"safe": turn on VPN safe mode, when exit, do not restore routing until reboot
+
+如需要监听 0.0.0.0，在终端执行： ./ul -L :9666
+
+如需要通过代理， 执行： ./ul -P 1.2.3.4：8080 或 ./ul -P socks://1.2.3.4:1080
+
+运行VPN模式，需要root或sudo， 执行：sudo ./ul -M vpn， 输入密码， 终端出现以下信息 （顺序可能不同）：
+LISTENING 127.0.0.1:9666 （监听 127.0.0.1:9666 ）
+VPN MODE （VPN模式）
+0.650 Connecting ... （正在连接）
+1.569 Connecting ... （正在连接）
+2.178 CONNECTED （连接成功）
+
+如需要在VPN下分享：sudo ./ul -M vpn -L :9666
+LISTENING 0.0.0.0:9666 （监听 0.0.0.0:9666 ）
+VPN MODE （VPN模式）
+0.650 Connecting ... （正在连接）
+1.569 Connecting ... （正在连接）
+2.178 CONNECTED （连接成功）
+
+在VPN模式下不需要设置代理，整机都通过无界加密翻墙，不会出现直连。我们还是建议设置代理以避免退出无界后直连，这样更安全。建议使用浏览器的“隐私模式”，这样不会留下历史纪录。退出无界前，最好关闭所有浏览器，以免退出后直连敏感网站。
+
+VPN 安全模式：
+为了确保安全，新增了VPN 安全模式: sudo ./ul -M vpn -S safe
+终端出现以下信息 （顺序可能不同）：
+LISTENING 127.0.0.1:9666 （监听 127.0.0.1:9666 ）
+VPN SAFE MODE （VPN 安全模式）
+0.650 Connecting ... （正在连接）
+1.569 Connecting ... （正在连接）
+2.178 CONNECTED （连接成功）
+
+一旦运行了 VPN 安全模式，电脑一直处于网络隔离状态，即使关闭了无界，也无法联网。这样消除了所有泄露IP的隐患，以确保安全。不过还是建议设置无界代理，进一步增加安全性，即使恢复到非网络隔离状态也不会泄露IP。也建议使用浏览器的“隐私模式”，最好使用定制版的浏览器，以避免留下历史纪录。
+
+需要重新启动电脑才能恢复到非网络隔离状态
