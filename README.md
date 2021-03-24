@@ -49,31 +49,3 @@
 #### 注意事项：
 1. 如果在VPN模式下使用其他浏览器（而不是无界一点通自带的浏览器），请使用其浏览器的“隐私模式”
 2. 或退出无界一点通之后，请将浏览器的历史记录清除，否则在没有VPN的情况下无意中点击了这些历史记录，会有安全隐患。
-
-## [苹果macOS: 无界苹果macOS版 18.07](https://raw.githubusercontent.com/wujieliulan/download/master/u.dmg)
-
-#### 校验码： SHA512: 56f9630ea182ba047d78ad5aa2cd41044d2184ce9770b0e43d179b496c71ceb6a6b995264d1ad5ddbcd2f3dae9cf34acc26e4a59cf809bd1576e94ac81dc7bc2
-
-#### 安装：
-
-需要安装谷歌Chrome浏览器。下载后将里面的umac存在某处。
-
-#### 功能与使用：
-
-双击umac后会关闭所有谷歌Chrome浏览器，然后弹出一个终端显示以下信息：
-LISTENING 127.0.0.1:9666 （监听 127.0.0.1:9666 ）
-0.650 Connecting ... （正在连接）
-1.569 Connecting ... （正在连接）
-2.178 CONNECTED （连接成功）
-连接成功后自动打开的隐私模式谷歌Chrome浏览器（incognito mode）。
-
-关闭终端会关闭所有谷歌Chrome浏览器，然后退出无界。（也可以按ctrl+C).
-
-
-使用方法：
-下载后在下载的文件夹右键打开一个终端，在终端执行：chmod +x ul，然后执行：./ul， 终端出现以下信息：
-LISTENING 127.0.0.1:9666 （监听 127.0.0.1:9666 ）
-0.650 Connecting ... （正在连接）
-1.569 Connecting ... （正在连接）
-2.178 CONNECTED （连接成功）
-需要手动设置浏览器代理。
