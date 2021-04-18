@@ -3,7 +3,7 @@
 
 ## [Windows版： 无界浏览 21.20](https://raw.githubusercontent.com/wujieliulan/download/master/u.exe)
 
-#### 校验码： SHA256: 03fc4e2df2c1712f5d0adda73af583b3cf4d232dc6ac6b8319899ffe1c030852
+#### 校验码： SHA256: 75748a37e2671910df15f7b6feb6a8cef13f0e00fa2e01b1b04540cb30c822a1
 
 #### 安装与使用:
 不需要安装，下载后将里面的u1806存到桌面或其他地方，双击即可使用。
