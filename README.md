@@ -9,9 +9,9 @@
 不需要安装，下载后将里面的u1806存到桌面或其他地方，双击即可使用。
 
 
-## [安卓版(支持4.1以上）: 无界VPN 2.2.3](https://raw.githubusercontent.com/wujieliulan/download/master/u.apk)
+## [安卓版(支持4.1以上）: 无界VPN 2.2.4](https://raw.githubusercontent.com/wujieliulan/download/master/u.apk)
 
-#### 校验码： SHA256: 89afbe8f999b13e6344c4be8c423d684432a28829747ac06721294bfc7a35c48
+#### 校验码： SHA256: 4d61502b0bc835e51211389920fde57886b44705bb22ff083f0c6771c23b6e7d
 
 #### 安装：
 
