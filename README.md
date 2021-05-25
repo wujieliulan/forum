@@ -6,7 +6,10 @@
 
 #### 安装：
 
-先在苹果机上点击并安装 TestFlight 软件
+如果您有国外苹果账号，可以直接安装：
+https://apps.apple.com/us/app/ultrasurf-vpn/id1563051300
+
+如果没有，先在苹果机上点击并安装 TestFlight 软件
 https://apps.apple.com/us/app/testflight/id899247664
 
 然后点击以下链接安装
