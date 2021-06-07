@@ -2,6 +2,14 @@
 # 无界浏览(UltraSurf)最新版本下载
 ## （本页面从国内可直接访问，无需翻墙，请收藏以便日后下载新版。也可以用这个短网址： https://git.io/vFUxz 最近封锁严重，请把本页面分享给更多的人。）
 
+## [Windows版： 无界浏览 21.21](https://raw.githubusercontent.com/wujieliulan/download/master/u.zip)
+
+#### 校验码： SHA256: 2f3a39869aa8f85099d5a303cb44dd73e819db59f5a439b1d362d2cfd6a84965
+
+#### 安装与使用:
+不需要安装，下载后将里面的u1806存到桌面或其他地方，双击即可使用。
+
+
 ## 苹果版 无界VPN 1.0.1 (支持 iPhone 5S 以上)
 
 #### 安装：
@@ -22,13 +30,6 @@ https://testflight.apple.com/join/iuwrpqqo
 5. 使用时，只要vpn标志在，就在在无界加密保护下。
 6. 如果要停止使用，轻触或滑动开关即可。关闭后，vpn标志会消失，这时手机直接联网，不在无界加密保护下。
 7. 如果问题，可关闭再开启或重启手机再运行无界。
-
-## [Windows版： 无界浏览 21.20](https://raw.githubusercontent.com/wujieliulan/download/master/u.exe)
-
-#### 校验码： SHA256: 75748a37e2671910df15f7b6feb6a8cef13f0e00fa2e01b1b04540cb30c822a1
-
-#### 安装与使用:
-不需要安装，下载后将里面的u1806存到桌面或其他地方，双击即可使用。
 
 
 ## [安卓版(支持4.1以上）: 无界VPN 2.2.6](https://raw.githubusercontent.com/wujieliulan/download/master/u.apk)
