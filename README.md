@@ -21,7 +21,7 @@ https://apps.apple.com/us/app/ultrasurf-vpn/id1563051300
 https://apps.apple.com/us/app/testflight/id899247664
 
 然后点击以下链接安装
-https://testflight.apple.com/join/iuwrpqqo
+https://testflight.apple.com/join/HGroNaNq
 
 #### 功能与使用：
 
