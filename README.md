@@ -2,12 +2,12 @@
 # 无界浏览(UltraSurf)最新版本下载
 ## （本页面从国内可直接访问，无需翻墙，请收藏以便日后下载新版。也可以用这个短网址： https://git.io/vFUxz 最近封锁严重，请把本页面分享给更多的人。）
 
-## [Windows版： 无界浏览 21.21](https://raw.githubusercontent.com/wujieliulan/download/master/u.zip)
+## [Windows版： 无界浏览 21.32](https://raw.githubusercontent.com/wujieliulan/download/master/u.exe)
 
-#### 校验码： SHA256: 2f3a39869aa8f85099d5a303cb44dd73e819db59f5a439b1d362d2cfd6a84965
+#### 校验码： SHA256: 168e625c7eb51720f5ce1922aec6ad316b3aaca838bd864ee2bcdbd9b66171d0
 
 #### 安装与使用:
-不需要安装，下载后将里面的u1806存到桌面或其他地方，双击即可使用。
+不需要安装，下载后将u.exe存到桌面或其他地方，双击即可使用。
 
 
 ## 苹果版 无界VPN 1.0.1 (支持 iPhone 5S 以上)
