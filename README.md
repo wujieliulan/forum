@@ -32,9 +32,9 @@ https://testflight.apple.com/join/HGroNaNq
 7. 如果问题，可关闭再开启或重启手机再运行无界。
 
 
-## [安卓版(支持4.1以上）: 无界VPN 2.2.6](https://raw.githubusercontent.com/wujieliulan/download/master/u.apk)
+## [安卓版(支持4.1以上）: 无界VPN 2.2.9](https://raw.githubusercontent.com/wujieliulan/download/master/u.apk)
 
-#### 校验码： SHA256: 7c6ea55e67be5459037185bac7777c0708147a8a8442ef97dc340c02a1dfa33e
+#### 校验码： SHA256: 5516432b40706abec8e3cc0e705c1632a6ea3b8d0a414a407ffb3e66c3b0aa33
 
 #### 安装：
 
