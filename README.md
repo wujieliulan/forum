@@ -2,7 +2,7 @@
 # 无界浏览(UltraSurf)最新版本下载
 ## （本页面从国内可直接访问，无需翻墙，请收藏以便日后下载新版。也可以用这个短网址： https://git.io/vFUxz 最近封锁严重，请把本页面分享给更多的人。）
 
-## [Windows版： 无界浏览 21.32](https://raw.githubusercontent.com/wujieliulan/download/master/u.exe)
+## [Windows版： 无界浏览 21.32](https://github.com/wujieliulan/download/raw/master/u.exe)
 
 #### 校验码： SHA256: 168e625c7eb51720f5ce1922aec6ad316b3aaca838bd864ee2bcdbd9b66171d0
 
@@ -32,7 +32,7 @@ https://testflight.apple.com/join/HGroNaNq
 7. 如果问题，可关闭再开启或重启手机再运行无界。
 
 
-## [安卓版(支持4.1以上）: 无界VPN 2.2.9](https://raw.githubusercontent.com/wujieliulan/download/master/u.apk)
+## [安卓版(支持4.1以上）: 无界VPN 2.2.9](https://github.com/wujieliulan/download/raw/master/u.apk)
 
 #### 校验码： SHA256: 5516432b40706abec8e3cc0e705c1632a6ea3b8d0a414a407ffb3e66c3b0aa33
 
@@ -56,7 +56,7 @@ https://testflight.apple.com/join/HGroNaNq
 3. 为安全起见，建议关闭所有浏览器和其他app，再关闭无界，以免直连敏感网站。也可以直接重启手机， 这样最安全。
 
 
-## [安卓版(支持2.0以上）: 无界一点通 4.9](https://raw.githubusercontent.com/wujieliulan/download/master/um.apk)
+## [安卓版(支持2.0以上）: 无界一点通 4.9](https://github.com/wujieliulan/download/raw/master/um.apk)
 
 #### 校验码： SHA256:  75748a37e2671910df15f7b6feb6a8cef13f0e00fa2e01b1b04540cb30c822a1
 
