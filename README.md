@@ -4,9 +4,9 @@
 
 ## Windows版： 无界浏览 21.32
 
-[下载1： 无界浏览 21.32](https://github.com/wujieliulan/download/raw/master/u.exe)
+[下载1：无界浏览 21.32](https://github.com/wujieliulan/download/raw/master/u.exe)
 
-[下载2： 无界浏览 21.32](https://1fe268065d1e73abe1fd3aaa6fe5b486.r2.cloudflarestorage.com/ultrasurf/upload/u.apk)
+[下载2：无界浏览 21.32](https://1fe268065d1e73abe1fd3aaa6fe5b486.r2.cloudflarestorage.com/ultrasurf/upload/u.apk)
 
 #### 校验码： SHA256: 168e625c7eb51720f5ce1922aec6ad316b3aaca838bd864ee2bcdbd9b66171d0
 
@@ -14,29 +14,11 @@
 不需要安装，下载后将u.exe存到桌面或其他地方，双击即可使用。
 
 
-## 苹果版 无界VPN 1.0.1 (支持 iPhone 5S 以上)
+## 安卓版(支持4.1以上）: 无界VPN 2.3.0
 
-#### 安装：
+[下载1：安卓版(支持4.1以上）无界VPN 2.3.0](https://github.com/wujieliulan/download/raw/master/u.apk)
 
-如果您有国外苹果账号，可以直接安装：
-https://apps.apple.com/us/app/ultrasurf-vpn/id1563051300
-
-如果没有，先在苹果机上点击并安装 TestFlight 软件
-https://apps.apple.com/us/app/testflight/id899247664
-
-然后点击以下链接安装
-https://testflight.apple.com/join/HGroNaNq
-
-#### 功能与使用：
-
-1. 开启后，轻触或滑动开关，显示“正在连接 ..."，同时时上面会出现vpn标志。
-2. 连接成功后显示“连接成功“。此时您可以使用任何浏览器或app，都在无界加密保护下。
-5. 使用时，只要vpn标志在，就在在无界加密保护下。
-6. 如果要停止使用，轻触或滑动开关即可。关闭后，vpn标志会消失，这时手机直接联网，不在无界加密保护下。
-7. 如果问题，可关闭再开启或重启手机再运行无界。
-
-
-## [安卓版(支持4.1以上）: 无界VPN 2.2.9](https://github.com/wujieliulan/download/raw/master/u.apk)
+[下载2：安卓版(支持4.1以上）无界VPN 2.2.9](https://github.com/wujieliulan/download/raw/master/u.apk)
 
 #### 校验码： SHA256: 5516432b40706abec8e3cc0e705c1632a6ea3b8d0a414a407ffb3e66c3b0aa33
 
@@ -58,6 +40,27 @@ https://testflight.apple.com/join/HGroNaNq
 1. 建议使用浏览器的“隐私模式”浏览敏感网站，这样不会留下历史纪录。
 2. 如果浏览器不支持“隐私模式”，请手动清除所有历史纪录，或使用清除所有历史纪录的工具。
 3. 为安全起见，建议关闭所有浏览器和其他app，再关闭无界，以免直连敏感网站。也可以直接重启手机， 这样最安全。
+
+## 苹果版 无界VPN 1.0.1 (支持 iPhone 5S 以上)
+
+#### 安装：
+
+如果您有国外苹果账号，可以直接安装：
+https://apps.apple.com/us/app/ultrasurf-vpn/id1563051300
+
+如果没有，先在苹果机上点击并安装 TestFlight 软件
+https://apps.apple.com/us/app/testflight/id899247664
+
+然后点击以下链接安装
+https://testflight.apple.com/join/HGroNaNq
+
+#### 功能与使用：
+
+1. 开启后，轻触或滑动开关，显示“正在连接 ..."，同时时上面会出现vpn标志。
+2. 连接成功后显示“连接成功“。此时您可以使用任何浏览器或app，都在无界加密保护下。
+5. 使用时，只要vpn标志在，就在在无界加密保护下。
+6. 如果要停止使用，轻触或滑动开关即可。关闭后，vpn标志会消失，这时手机直接联网，不在无界加密保护下。
+7. 如果问题，可关闭再开启或重启手机再运行无界。
 
 
 ## [安卓版(支持2.0以上）: 无界一点通 4.9](https://github.com/wujieliulan/download/raw/master/um.apk)
