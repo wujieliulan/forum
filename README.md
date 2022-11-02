@@ -6,7 +6,7 @@
 
 [下载1：无界浏览 21.32](https://github.com/wujieliulan/download/raw/master/u.exe)
 
-[下载2：无界浏览 21.32](https://1fe268065d1e73abe1fd3aaa6fe5b486.r2.cloudflarestorage.com/ultrasurf/upload/u.apk)
+[下载2：无界浏览 21.32](https://983fmtheword.world/download/u.exe)
 
 #### 校验码： SHA256: 168e625c7eb51720f5ce1922aec6ad316b3aaca838bd864ee2bcdbd9b66171d0
 
@@ -16,9 +16,9 @@
 
 ## 安卓版(支持4.1以上）: 无界VPN 2.3.0
 
-[下载1：安卓版(支持4.1以上）无界VPN 2.3.0](https://github.com/wujieliulan/download/raw/master/u.apk)
+[下载1：无界VPN 2.3.0](https://github.com/wujieliulan/download/raw/master/u.apk)
 
-[下载2：安卓版(支持4.1以上）无界VPN 2.2.9](https://github.com/wujieliulan/download/raw/master/u.apk)
+[下载2：无界VPN 2.3.0](https://983fmtheword.world/download/u.apk)
 
 #### 校验码： SHA256: 5516432b40706abec8e3cc0e705c1632a6ea3b8d0a414a407ffb3e66c3b0aa33
 
@@ -64,6 +64,10 @@ https://testflight.apple.com/join/HGroNaNq
 
 
 ## [安卓版(支持2.0以上）: 无界一点通 4.9](https://github.com/wujieliulan/download/raw/master/um.apk)
+
+[下载1:无界一点通 4.9](https://github.com/wujieliulan/download/raw/master/um.apk)
+
+[下载2:无界一点通 4.9](https://983fmtheword.world/download/um.apk)
 
 #### 校验码： SHA256:  75748a37e2671910df15f7b6feb6a8cef13f0e00fa2e01b1b04540cb30c822a1
 
