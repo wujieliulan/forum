@@ -6,7 +6,7 @@
 
 [下载1：无界浏览 21.32](https://github.com/wujieliulan/download/raw/master/u.exe)
 
-[下载2：无界浏览 21.32](https://983fmtheword.world/download/u.exe)
+[下载2：无界浏览 21.32](https://jynpos.com/download/u.exe)
 
 #### 校验码： SHA256: 168e625c7eb51720f5ce1922aec6ad316b3aaca838bd864ee2bcdbd9b66171d0
 
