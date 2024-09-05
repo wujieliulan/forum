@@ -4,9 +4,7 @@
 
 ## Windows版： 无界浏览 21.32
 
-[下载1：无界浏览 21.32](https://github.com/wujieliulan/download/raw/master/u.exe)
-
-[下载2：无界浏览 21.32](https://jynpos.com/download/u.exe)
+[下载：无界浏览 21.32](https://github.com/wujieliulan/download/raw/master/u.exe)
 
 #### 校验码： SHA256: 168e625c7eb51720f5ce1922aec6ad316b3aaca838bd864ee2bcdbd9b66171d0
 
@@ -16,11 +14,9 @@
 
 ## 安卓版(支持4.1以上）: 无界VPN 2.3.0
 
-[下载1：无界VPN 2.3.0](https://jynpos.com/download/raw/master/u.apk)
+[下载：无界VPN 3.0.6](https://github.com/wujieliulan/download/raw/master/u.apk)
 
-[下载2：无界VPN 2.3.0](https://jynpos.com/download/u.apk)
-
-#### 校验码： SHA256: 5516432b40706abec8e3cc0e705c1632a6ea3b8d0a414a407ffb3e66c3b0aa33
+#### 校验码： SHA256: dac27b615482eee1602376922f6be9f00803720b2b0fdd3721b4313bd69f6341
 
 #### 安装：
 
